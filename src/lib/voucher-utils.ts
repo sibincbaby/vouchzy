@@ -389,5 +389,5 @@ export function updateMetaTags(title: string, provider: string, theme: VoucherTh
   
   // Keep the default OG image for now - in a real implementation, you'd generate a dynamic image
   // based on the voucher theme and title
-  ogImage.setAttribute('content', 'https://lovable.dev/opengraph-image-p98pqg.png');
+  ogImage.setAttribute('content', 'https://i.imgur.com/u3IjhPM.png');
 }
